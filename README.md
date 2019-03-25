@@ -5,7 +5,7 @@ Following is a colab (jupyter notebook) version of the Dynamic Optimization cour
 
 Original course website: http://apmonitor.com/do/index.php/Main/HomePage
 
-Colab version of course: https://github.com/misbahsy/APMonitor-do/blob/master/DynamicOptimization.ipynb
+Colab version of course (start here): https://github.com/misbahsy/APMonitor-do/blob/master/DynamicOptimization.ipynb
 
 The goal of this effort is to help students on the following:
 
