@@ -5,8 +5,6 @@ Following is a colab (jupyter notebook) version of the Dynamic Optimization cour
 
 Original course website: http://apmonitor.com/do/index.php/Main/HomePage
 
-Colab version of course (start here): https://github.com/misbahsy/APMonitor-do/blob/master/DynamicOptimization.ipynb
-
 The goal of this effort is to help students on the following:
 
 - Follow lectures and solve code in the same location
@@ -16,3 +14,7 @@ The goal of this effort is to help students on the following:
 - Run code in the browser
 
 Currently, GEKKO and ODEINT code are functional in these notebooks. APM code, MATLAB code, lab assignments and exams are a work in progress (link is provided to original website in latter case).
+
+
+Start Here:
+Colab version of course: https://github.com/misbahsy/APMonitor-do/blob/master/DynamicOptimization.ipynb
